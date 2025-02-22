@@ -1,0 +1,18 @@
+.theme-circle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: none;
+    margin: 0 5px;
+    cursor: pointer;
+    outline: none;
+  }
+  
+  .theme-circle:hover {
+    opacity: 0.8;
+  }
+  
+  .d-flex{
+    margin-right: 15px;
+
+  }
